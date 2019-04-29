@@ -45,3 +45,14 @@ body {
 	color: #666600;
 	font-size: 18px;
 }
+
+#kozerdek {
+	background-color: #e9e9df;
+	font-size: 14px;
+	float:right;
+	width: 75%;
+}
+
+video {
+	padding: 20px;
+}
