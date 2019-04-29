@@ -1,0 +1,30 @@
+body {
+	background-color: #cccc99;
+	color: #666600;
+}
+
+#news {
+	float:right;
+	width: 70%;
+}
+
+.card {
+	margin: 6px;
+	color: black;
+	padding: 15px;
+	float:left;
+	width: 30%;
+	height: auto;
+	background-color: #e9e9df;
+	font-size: 14px;
+}
+
+.card span {
+	color: #666600;
+	font-size: 18px;
+}
+
+.card a {
+	color: #666600;
+	font-size: 18px;
+}
