@@ -5,7 +5,25 @@ body {
 
 #news {
 	float:right;
-	width: 70%;
+	width: 75%;
+}
+
+#news:nth-child(3n+1){
+	clear:right;
+}
+
+#logo {
+	width: 25%;
+	display: block;
+}
+
+.partner {
+	width: 100%;
+	padding-bottom: 10px;
+}
+
+#partners {
+	width: 25%;
 }
 
 .card {
@@ -13,8 +31,7 @@ body {
 	color: black;
 	padding: 15px;
 	float:left;
-	width: 30%;
-	height: auto;
+	width: 25%;
 	background-color: #e9e9df;
 	font-size: 14px;
 }
